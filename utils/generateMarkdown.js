@@ -32,7 +32,7 @@ const licenseLinks = {
   'Apache 2.0': 'https://opensource.org/licenses/Apache-2.0',
   'BSD 3-Clause': 'https://opensource.org/licenses/BSD-3-Clause',
   'None': '',
-  // Add other licenses as needed
+  
 };
 
 return licenseLinks[license] || '';
