@@ -34,5 +34,5 @@ To run tests, use npm test
 ## Questions
 If you have any questions about the project, you can reach me at [sammy.kordi@gmail.com](mailto:sammy.kordi@gmail.com). You can also find more of my work at [thepeoplesengineer](https://github.com/thepeoplesengineer).
 
-## Video Link of App
+## Video Link
 https://drive.google.com/file/d/1hocVxR7QtY4dS1E5om6HxDsHpUAY3ox3/view?usp=drive_link
